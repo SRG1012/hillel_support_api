@@ -1,0 +1,31 @@
+#  MY THOUGHTS ON THE FUNCTIONALITY:
+
+Order:
+1. Creating an order
+    1.1Choosing a payment method
+    1.2Choosing a delivery method                                                                  
+    1.3Choosing a Delivery address
+2. Order Editing
+3. Deleting an order
+
+
+Client:
+1. Customer authorization
+    1.1 Possibility of authorization through social networks
+2. Deleting a client
+3. Editing the client
+4. Support
+
+
+Restaurant abstraction:
+1. Order acceptance
+2. Processing and redirecting to the desired restaurant
+3. When the redirect for delivery is "ready"
+
+
+DELIVERY:
+1. Order Acceptance Time
+2. Real-time tracking
+3. Estimated Delivery Time
+4. Notification of completed order
+5. Delay notifications
